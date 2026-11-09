@@ -2,6 +2,10 @@
 
 A working, Pakistan-focused local sales demo: React/TypeScript/Vite/Tailwind, FastAPI, SQLAlchemy, SQLite WAL, six deterministic agents, and SciPy optimization. **All data, messages, deals, conversations and reported outcomes are simulated.** No paid services, API keys, external messaging account or LLM is required.
 
+## Simple startup overview
+
+Download [startup-overview.html](startup-overview.html) and open it in a browser. This single-file page explains the idea, software helpers, customers, market-size assumptions, fair work sharing, value, and business model in plain language. It works offline and includes a print / save-as-PDF button.
+
 ## Quick start (Python 3.12+, Node 22.12+)
 
 Run from this repository root:
