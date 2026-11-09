@@ -1,0 +1,11 @@
+{
+  "seeded_leads": 10000,
+  "seed_seconds": 11.926,
+  "filter_matches": 1001,
+  "returned_page_size": 100,
+  "warm_requests": 10,
+  "median_filter_ms": 14.51,
+  "maximum_filter_ms": 15.26,
+  "under_one_second": true,
+  "scope": "Local TestClient end-to-end API; excludes browser rendering and remote network"
+}

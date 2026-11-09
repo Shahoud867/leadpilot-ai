@@ -1,0 +1,18 @@
+
+> leadpilot-web@1.0.0 e2e
+> playwright test
+
+
+Running 7 tests using 1 worker
+
+(node:45824) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  1 e2e/workspace.spec.ts:37:1 › all workspaces load without browser errors (5.1s)
+  ✓  2 e2e/workspace.spec.ts:60:1 › manual capture persists and converts through guarded steps (13.5s)
+  ✓  3 e2e/workspace.spec.ts:113:1 › CSV preview and duplicate import update the directory (4.7s)
+  ✓  4 e2e/workspace.spec.ts:130:1 › Demo Lab exposes missed SLA, override and optimization outcomes (12.3s)
+  ✓  5 e2e/workspace.spec.ts:166:1 › viewer has no workflow write controls (3.9s)
+  ✓  6 e2e/workspace.spec.ts:190:1 › mobile overview fits and navigation remains usable (3.0s)
+  ✓  7 e2e/workspace.spec.ts:207:1 › dialogs trap keyboard focus, close with Escape and restore focus (3.4s)
+
+  7 passed (47.0s)

@@ -1,0 +1,86 @@
+[
+  {
+    "page": "Sign in",
+    "violations": []
+  },
+  {
+    "page": "Overview",
+    "violations": []
+  },
+  {
+    "page": "Lead inbox",
+    "violations": []
+  },
+  {
+    "page": "All leads",
+    "violations": []
+  },
+  {
+    "page": "Smart priority",
+    "violations": []
+  },
+  {
+    "page": "Qualification",
+    "violations": []
+  },
+  {
+    "page": "Assignment board",
+    "violations": []
+  },
+  {
+    "page": "Sales pipeline",
+    "violations": []
+  },
+  {
+    "page": "Follow-ups",
+    "violations": []
+  },
+  {
+    "page": "Recovery ledger",
+    "violations": []
+  },
+  {
+    "page": "Analytics",
+    "violations": []
+  },
+  {
+    "page": "Decision trace",
+    "violations": []
+  },
+  {
+    "page": "Demo Lab",
+    "violations": []
+  },
+  {
+    "page": "Team & settings",
+    "violations": []
+  },
+  {
+    "page": "Capture dialog",
+    "violations": []
+  },
+  {
+    "page": "Lead detail · Overview",
+    "violations": []
+  },
+  {
+    "page": "Lead detail · Timeline",
+    "violations": []
+  },
+  {
+    "page": "Lead detail · Messages",
+    "violations": []
+  },
+  {
+    "page": "Lead detail · Decisions",
+    "violations": []
+  },
+  {
+    "page": "Lead detail · Tasks",
+    "violations": []
+  },
+  {
+    "page": "Lead detail · Populated messages",
+    "violations": []
+  }
+]

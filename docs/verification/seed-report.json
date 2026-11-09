@@ -1,0 +1,17 @@
+{
+  "valid": true,
+  "counts": {
+    "tenants": 2,
+    "users": 12,
+    "sales_reps": 8,
+    "campaigns": 8,
+    "leads": 3000,
+    "lead_events": 14714,
+    "tasks": 3750,
+    "communications": 4768,
+    "assignments": 3000,
+    "recommendations": 24,
+    "audit_events": 124
+  },
+  "checksum": "579603e9bdd2bad2a21763f01ca16c4f1dffe31e37069166458fff9649ad1432"
+}

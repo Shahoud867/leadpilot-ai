@@ -1,0 +1,10 @@
+{
+  "startup_command": "python scripts/run_demo.py (fresh extracted archive; existing verified dependency environment)",
+  "migrations": "passed",
+  "automatic_seed": "1500 leads in first tenant; 3000 global",
+  "built_frontend": "HTML and all referenced assets return HTTP 200",
+  "intake": "captured, qualified, assigned and scheduled",
+  "idempotency": "one scenario event for two identical requests",
+  "staff_response": "customer reply leaves adviser obligation pending; approved simulated send records staff response",
+  "status": "passed"
+}
