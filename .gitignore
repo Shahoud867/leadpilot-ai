@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+*.db
+*.db-shm
+*.db-wal
+.env
+apps/web/dist/
+apps/web/test-results/
+apps/web/playwright-report/
+*.tsbuildinfo
+inspect.mjs
+
+# Generated distribution packages
+deliverables/
