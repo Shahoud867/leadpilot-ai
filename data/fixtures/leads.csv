@@ -1,0 +1,3 @@
+name,contact,email,source,city,interest,inquiry,budget,urgency,consent
+Ayesha CSV Test,SYN-CSV-001,ayesha@synthetic.example,Website,Islamabad,IELTS,Please share the next IELTS session details,35000,today,granted
+Ayesha CSV Test,SYN-CSV-001,ayesha@synthetic.example,Website,Islamabad,IELTS,Duplicate inquiry for manager review,35000,today,granted
